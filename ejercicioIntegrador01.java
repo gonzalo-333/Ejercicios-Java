@@ -1,5 +1,5 @@
 
-// Programa que pide años de nacimiento e indica edades posibles
+// Programa que pide año de nacimiento e indica edades posibles
 
 import java.util.Scanner;
 
