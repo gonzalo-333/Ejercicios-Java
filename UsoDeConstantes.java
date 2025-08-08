@@ -1,6 +1,7 @@
+// Calcula sueldo semanal segun sueldo diario si se trabaja jornada completa
+// de lunes a viernes y media jornada los sabados
 
 import java.util.Scanner;
-
 
 public class UsoDeConstantes {
 
