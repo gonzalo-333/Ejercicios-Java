@@ -15,10 +15,7 @@ public class FuncionesVoid {
     }
     
     static void imprimirSimbolo(char simbolo, int veces){
-        for(int i = 0; i < veces; i++){
-            System.out.print(simbolo);
-        }
-        System.out.println();
+        System.out.println( sucesionSimbolos(simbolo, veces) );
     }
     
     static String sucesionSimbolos(char simbolo, int veces){
